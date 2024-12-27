@@ -1,5 +1,6 @@
 # ts-conv
-Time series convolution. https://spatiotemporal-data.github.io/posts/ts_conv
+
+**Time series convolution** is a post at the [Spatiotemporal Data Modeling](https://spatiotemporal-data.github.io/posts/ts_conv) project. To draw the graphics, please check out the [latex-graphics.ipynb](https://github.com/xinychen/ts-conv/blob/main/latex-graphics.ipynb) (Jupyter Notebook) in this repository.
 
 ## Table of Content
 
@@ -18,4 +19,3 @@ Time series convolution. https://spatiotemporal-data.github.io/posts/ts_conv
 - Learning interpretable convolutional kernels
   - Convolutional kernels
   - Sparse linear regression
-  - Mixed-integer programming
