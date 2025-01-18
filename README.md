@@ -8,9 +8,10 @@
 
 ### Data
 
-- [NYC ridesharing and taxi trip data](https://github.com/xinychen/ts-conv/tree/main/NYC-data)
-- [Chicago ridesharing and taxi trip data](https://github.com/xinychen/ts-conv/tree/main/Chicago-data)
+- [NYC ridesharing and taxi trip data](https://github.com/xinychen/ts-conv/tree/main/NYC-data) (Source: [TLC trip record data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page))
+- [Chicago ridesharing and taxi trip data](https://github.com/xinychen/ts-conv/tree/main/Chicago-data) (Source: [TNP ridesharing trips](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p) | [Chicago taxi trips](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2018-2022-/m6dm-c72p))
 - [Fluid flow data](https://github.com/xinychen/ts-conv/tree/main/Fluid-flow)
+- [North America temperature data](https://github.com/xinychen/ts-conv/tree/main/NA-temperature) (Source: [Daymet](https://daac.ornl.gov/DAYMET))
 
 ### Algorithms
 
