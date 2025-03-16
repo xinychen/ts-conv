@@ -1,4 +1,4 @@
-# vars
+# ts-conv
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 [![repo size](https://img.shields.io/github/repo-size/xinychen/ts-conv.svg)](https://github.com/xinychen/ts-conv/archive/master.zip)
